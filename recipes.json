@@ -1,0 +1,113 @@
+{
+    "happy": [
+        {
+            "name": "Pasta Primavera",
+            "ingredients": ["pasta", "vegetables", "parmesan"],
+            "steps": "Cook pasta. Sauté vegetables. Mix together with parmesan."
+        },
+        {
+            "name": "Fruit Salad",
+            "ingredients": ["fruits", "honey", "yogurt"],
+            "steps": "Chop fruits. Mix with honey and yogurt."
+        },
+        {
+            "name": "Grilled Chicken Sandwich",
+            "ingredients": ["chicken breast", "lettuce", "tomato", "bread"],
+            "steps": "Grill chicken. Assemble sandwich with lettuce and tomato."
+        },
+        {
+            "name": "Mango Smoothie",
+            "ingredients": ["mango", "yogurt", "milk"],
+            "steps": "Blend mango, yogurt, and milk until smooth."
+        },
+        {
+            "name": "Veggie Stir Fry",
+            "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce"],
+            "steps": "Stir fry vegetables. Add soy sauce."
+        }
+    ],
+    
+    "sad": [
+        {
+            "name": "Mac and Cheese",
+            "ingredients": ["macaroni", "cheese", "milk"],
+            "steps": "Boil macaroni. Mix with cheese and milk."
+        },
+        {
+            "name": "Chocolate Cake",
+            "ingredients": ["flour", "cocoa", "sugar", "eggs"],
+            "steps": "Mix ingredients. Bake at 350°F for 30 minutes."
+        },
+        {
+            "name": "Cheesy Garlic Bread",
+            "ingredients": ["bread", "cheese", "garlic", "butter"],
+            "steps": "Spread garlic butter on bread. Top with cheese and bake."
+        },
+        {
+            "name": "Mashed Potatoes",
+            "ingredients": ["potatoes", "butter", "milk"],
+            "steps": "Boil potatoes. Mash with butter and milk."
+        },
+        {
+            "name": "Brownie Sundae",
+            "ingredients": ["brownie", "ice cream", "chocolate syrup"],
+            "steps": "Warm brownie. Top with ice cream and chocolate syrup."
+        }
+    ],
+    
+    "stressed": [
+        {
+            "name": "Green Smoothie",
+            "ingredients": ["spinach", "banana", "almond milk"],
+            "steps": "Blend all ingredients."
+        },
+        {
+            "name": "Grilled Cheese",
+            "ingredients": ["bread", "cheese", "butter"],
+            "steps": "Butter bread. Add cheese. Grill until golden brown."
+        },
+        {
+            "name": "Avocado Toast",
+            "ingredients": ["bread", "avocado", "lemon", "salt"],
+            "steps": "Mash avocado. Spread on toast. Add lemon juice and salt."
+        },
+        {
+            "name": "Tomato Soup",
+            "ingredients": ["tomatoes", "onion", "garlic", "cream"],
+            "steps": "Simmer tomatoes, onion, and garlic. Blend and add cream."
+        },
+        {
+            "name": "Energy Bars",
+            "ingredients": ["oats", "honey", "peanut butter"],
+            "steps": "Mix ingredients. Press into a pan and refrigerate."
+        }
+    ],
+    
+    "excited": [
+        {
+            "name": "Tacos",
+            "ingredients": ["tortillas", "meat", "cheese", "lettuce"],
+            "steps": "Cook meat. Fill tortillas with meat, cheese, and lettuce."
+        },
+        {
+            "name": "Pizza",
+            "ingredients": ["pizza dough", "sauce", "cheese", "toppings"],
+            "steps": "Spread sauce on dough. Add cheese and toppings. Bake at 400°F for 15 minutes."
+        },
+        {
+            "name": "Buffalo Wings",
+            "ingredients": ["chicken wings", "hot sauce", "butter"],
+            "steps": "Bake wings. Toss in hot sauce and butter."
+        },
+        {
+            "name": "Nachos",
+            "ingredients": ["tortilla chips", "cheese", "jalapeños", "salsa"],
+            "steps": "Layer chips with cheese and jalapeños. Bake and serve with salsa."
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": ["flour", "butter", "sugar", "chocolate chips"],
+            "steps": "Mix ingredients. Bake at 350°F for 12 minutes."
+        }
+    ]
+}
