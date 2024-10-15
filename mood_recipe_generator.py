@@ -22,7 +22,7 @@ def get_recipe_by_mood(mood, recipes):
 # Step 3: Main function to interact with the user
 def main():
     print("Welcome to the Mood-Based Recipe Generator!")
-    print("How are you feeling today? (happy, sad, stressed, excited)")
+    print("How are you feeling today? (Happy, Sad, Stressed, Excited)")
     
     # Load recipes from JSON file
     recipes = load_recipes()
