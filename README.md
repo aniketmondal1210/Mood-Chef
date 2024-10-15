@@ -4,7 +4,10 @@ Python-based project that recommends personalized recipes based on your current 
 
 # Preview
 
-
+![logo](https://github.com/aniketmondal1210/Mood-Chef/blob/main/Terminal%20Samples%201.png)
+![logo](https://github.com/aniketmondal1210/Mood-Chef/blob/main/Terminal%20Samples%202.png)
+![logo](https://github.com/aniketmondal1210/Mood-Chef/blob/main/Terminal%20Samples%203.png)
+![logo](https://github.com/aniketmondal1210/Mood-Chef/blob/main/Terminal%20Samples%204.png)
 
 ## Features
 
