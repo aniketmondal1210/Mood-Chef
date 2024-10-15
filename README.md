@@ -16,7 +16,7 @@ Python-based project that recommends personalized recipes based on your current 
 ## Technologies Used
 
 - Python
-- JSON
+- JSON for storing recipes
 
 ## How to Use
 
