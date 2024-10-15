@@ -13,10 +13,10 @@ Python-based project that recommends personalized recipes based on your current 
 -Simple, beginner-friendly Python code.
 -Extendable to include more moods and recipes over time.
 
-## Technologies
+## Technologies Used
 
--Python
--JSON
+- Python
+- JSON
 
 ## How to Use
 
