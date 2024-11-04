@@ -11,10 +11,10 @@ Python-based project that recommends personalized recipes based on your current 
 
 ## Features
 
--A variety of recipes for moods: Happy, Sad, Stressed, Excited.
--JSON-based storage for easy addition and retrieval of recipes.
--Simple, beginner-friendly Python code.
--Extendable to include more moods and recipes over time.
+-A variety of recipes for moods: Happy, Sad, Stressed, Excited.\n
+-JSON-based storage for easy addition and retrieval of recipes.\n
+-Simple, beginner-friendly Python code.\n
+-Extendable to include more moods and recipes over time.\n
 
 ## Technologies Used
 
